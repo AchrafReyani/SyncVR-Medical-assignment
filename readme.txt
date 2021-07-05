@@ -2,7 +2,7 @@ Instructions:
 button called Reset is used to reset the fibonacci number.
 with update you perform once calculation causing the fibonacci number to increase.
 
-the background music changes as the fibonacci number increases.
+the background music changes as the fibonacci number increases. I really like music in videogames so I had to put something like this in there.
 background music was made with https://splice.com/sounds/beatmaker
 The idea was inspired by videogames where a song gets more instruments as you progress through the game.
 for example:
@@ -20,4 +20,7 @@ The idea behind the sprite animation was just to see if I could make it appear a
 there was no specific purpose for it design wise.
 
 the background was made to add a bit of life to the game as a blank color without anything moving is a bit dull.
+
+Overall I enjoyed the assignment. Especially the learning stage since this was my first actual unity assignment. There were quite a few
+things that I was unfamiliar with but it was fun working it out and looking stuff up to solve problems.
 
